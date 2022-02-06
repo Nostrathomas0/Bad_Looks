@@ -4,4 +4,4 @@ select pdf
 - [Chapter by Chapter Synopsis](beuel/Bad Looks CxC Syn.pdf)
 - [Covering Letter](beuel/Cover Letter.pdf)
 ## Follow me
-- ![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/tomsenglishclass)
+- ![twitter.com/tomsenglishclass](https://img.shields.io:/twitter/follow/TomsEnglishClas?style=social)
