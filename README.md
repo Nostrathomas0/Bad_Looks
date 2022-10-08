@@ -7,5 +7,6 @@
 ### info about this work ###
   - [Chapter by Chapter Synopsis](beuel/Bad Looks CxC Syn.pdf)
   - [Covering Letter](beuel/Cover Letter.pdf)  
+***
 ## Follow me ##
   - [![twitter.com/BadLooksBook](https://img.shields.io:/twitter/follow/BadLooksBook?style=social)](https://twitter.com/BadLooksBook)
