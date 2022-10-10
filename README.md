@@ -1,4 +1,4 @@
-# Bad Books Corner # ![Raindrew](Rain.jpg)
+# Bad Books Corner # ![Raindrew](Beuel/Rain.jpg)
 ### pdf ###
   1. [Bad Looks ch 1-7](beuel/Bad-Looks-1-25.pdf)
   2. [Bad Looks ch 8-15](beuel/Bad Looks 8 - 15.pdf)
