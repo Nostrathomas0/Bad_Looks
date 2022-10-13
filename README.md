@@ -1,5 +1,4 @@
-# Bad 
-# Books 
+# Bad Book
 # Corner !["Raindrew"](beuel/Rain.jpg)
 ### pdf ###
   1. [Bad Looks ch 1-7](beuel/Bad-Looks-1-25.pdf)
