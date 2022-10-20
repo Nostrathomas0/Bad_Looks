@@ -2,7 +2,7 @@
 # Corner !["Raindrew"](beuel/Rain.jpg)
 ## pdf ##
 - [Bad Looks ch 1-7](beuel/Bad-Looks-1-25.pdf)
-- [Bad Looks ch 8-15](beuel/Bad-Looks-26-46.pdf)
+- [Bad Looks ch 8-15](beuel/Bad-Looks-8-14.pdf)
 ## epub ##
 - [Bad Looks ch 1-7](beuel/Bad Looks : Part 1 Looks.epub)
 - [Bad Looks ch 8-14](beuel/Bad Looks 8-14.epub)
