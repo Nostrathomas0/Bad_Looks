@@ -1,4 +1,3 @@
-# Bad Book Corner 
 ## pdf ##
 - [Bad Looks ch 1-7](beuel/Bad-Looks-1-25.pdf)
 - [Bad Looks ch 8-15](beuel/Bad-Looks-8-14.pdf)
